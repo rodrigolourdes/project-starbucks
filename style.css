@@ -96,7 +96,7 @@ header ul li a {
 }
 
 .content .imgBox {
-    width: 600px;
+    width: 500px;
     display: flex;
     justify-content: flex-end;
     padding-right: 50px;
@@ -105,6 +105,10 @@ header ul li a {
 
 .content .imgBox img {
     max-width: 340px;
+}
+
+.imgBox .starbucks {
+    max-width: 400px;
 }
 
 .thumb {
